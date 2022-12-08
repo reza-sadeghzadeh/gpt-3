@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gp3-container {
+  @apply max-md:max-w-md max-8xl:max-w-screen-lg 8xl:max-w-screen-8xl mx-auto px-6;
+}
