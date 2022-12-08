@@ -16,7 +16,7 @@ const Features = () => {
             alt="feature"
           />
         </div>
-        <div className="md:w-2/3 lg:w-2/5 lg:mt-32 8xl:pr-16 lg:ml-16 max-md:text-center">
+        <div className="md:w-2/3 lg:w-2/5 lg:mt-32 8xl:pr-16 lg:ml-16 max-md:text-center 8xl:ml-0">
           <p className="mt-12 text-base" style={{ color: "#71E5FF" }}>
             Request Early Access to Get Started
           </p>
