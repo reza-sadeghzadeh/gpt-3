@@ -6,9 +6,6 @@ export default function Home() {
     <>
       <Header />
       <Hero />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque sunt
-      alias facere ipsam aperiam ratione tempora ea labore at, atque quam quis
-      ab delectus repudiandae adipisci saepe placeat, provident veritatis.
     </>
   );
 }
