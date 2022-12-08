@@ -3,7 +3,7 @@ import GradLine from "./atoms/GradLine";
 const Future = () => {
   return (
     <section className="gp3-container">
-      <div className="flex w-full max-lg:flex-col justify-between md:py-20  items-start relative">
+      <div className="flex w-full max-lg:flex-col justify-between md:pt-20  items-start relative">
         <div
           style={{
             boxShadow: "rgb(255 255 255 / 35%) 0px 0px 120px 120px",
@@ -31,7 +31,7 @@ const Future = () => {
           <div className="w-full flex justify-between items-start max-md:flex-col">
             <div className="md:w-40 ">
               <GradLine />
-              <h3 className="text-lg font-bold">
+              <h3 className="text-lg font-medium">
                 Improving end distrusts instantly{" "}
               </h3>
             </div>
@@ -43,10 +43,10 @@ const Future = () => {
               </p>
             </div>
           </div>
-          <div className="w-full mt-10 8xl:mt-16 flex justify-between items-start max-md:flex-col ">
+          <div className="w-full mt-10 8xl:mt-12 flex justify-between items-start max-md:flex-col ">
             <div className="md:w-40 ">
               <GradLine />
-              <h3 className="text-lg font-bold">Become the tended active</h3>
+              <h3 className="text-lg font-medium">Become the tended active</h3>
             </div>
             <div className="max-md:mt-4 md:w-1/2">
               <p className="text-brand-textBlue">
@@ -55,10 +55,10 @@ const Future = () => {
               </p>
             </div>
           </div>
-          <div className="w-full mt-10 8xl:mt-16 flex justify-between items-start max-md:flex-col ">
+          <div className="w-full mt-10 8xl:mt-12 flex justify-between items-start max-md:flex-col ">
             <div className="md:w-40 ">
               <GradLine />
-              <h3 className="text-lg font-bold">Message or am nothing</h3>
+              <h3 className="text-lg font-medium">Message or am nothing</h3>
             </div>
             <div className="max-md:mt-4 md:w-1/2">
               <p className="text-brand-textBlue">
@@ -67,10 +67,10 @@ const Future = () => {
               </p>
             </div>
           </div>
-          <div className="w-full mt-10 8xl:mt-16 flex justify-between items-start max-md:flex-col ">
+          <div className="w-full mt-10 8xl:mt-12 flex justify-between items-start max-md:flex-col ">
             <div className="md:w-40 ">
               <GradLine />
-              <h3 className="text-lg font-bold">Really boy law county</h3>
+              <h3 className="text-lg font-medium">Really boy law county</h3>
             </div>
             <div className="max-md:mt-4 md:w-1/2">
               <p className="text-brand-textBlue">

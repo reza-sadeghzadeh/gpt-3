@@ -41,7 +41,7 @@ const Hero = () => {
                   name=""
                   id=""
                 />
-                <button className="8xl:px-8 px-4 8xl:py-4 py-3.5 8xl:text-base md:px-6 text-sm min-w-fit border-brand-orange max-md:border-2 md:bg-brand-orange max-md:rounded-md max-md:mt-6  md:rounded-r-md">
+                <button className="8xl:px-8 px-4 8xl:py-4 py-3.5 8xl:text-base md:px-6 text-sm min-w-fit border-brand-orange max-md:text-brand-orange max-md:border-2 md:bg-brand-orange max-md:rounded-md max-md:mt-6  md:rounded-r-md">
                   Get Started
                 </button>
               </div>
