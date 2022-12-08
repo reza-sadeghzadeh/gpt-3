@@ -1,4 +1,5 @@
 import About from "../components/About";
+import Action from "../components/Action";
 import Brands from "../components/Brands";
 import Features from "../components/Features";
 import Future from "../components/Future";
@@ -14,6 +15,7 @@ export default function Home() {
       <About />
       <Future />
       <Features />
+      <Action />
     </>
   );
 }

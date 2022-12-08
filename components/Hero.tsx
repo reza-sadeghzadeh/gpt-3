@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="flex justify-center items-center lg:flex-row flex-col-reverse max-lg:text-center">
           <div className="w-3/4 8xl:py-24 lg:py-16 max-lg:pb-24">
             <h1
-              className="8xl:text-7xl  text-5xl Manropebold text-gradiant tracking-tighter opacity-90"
+              className="8xl:text-7xl  text-5xl Manropebold text-gradiant tracking-tighter"
               style={{ lineHeight: 1.1 }}
             >
               Let’s Build Something amazing with GPT-3 OpenAI
@@ -41,7 +41,7 @@ const Hero = () => {
                   name=""
                   id=""
                 />
-                <button className="8xl:px-8 px-4 8xl:py-4 py-3.5 8xl:text-base md:px-6 text-sm min-w-fit border-brand-orange max-md:text-brand-orange max-md:border-2 md:bg-brand-orange max-md:rounded-md max-md:mt-6  md:rounded-r-md">
+                <button className="8xl:px-8 px-4 8xl:py-4 py-3.5 8xl:text-base md:px-6 text-sm min-w-fit border-brand-darkOrange max-md:text-brand-darkOrange max-md:border-2 md:bg-brand-darkOrange max-md:rounded-md max-md:mt-6  md:rounded-r-md">
                   Get Started
                 </button>
               </div>

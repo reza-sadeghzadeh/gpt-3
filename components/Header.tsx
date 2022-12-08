@@ -21,7 +21,7 @@ const Header = () => {
           <button className="md:px-8 md:py-4 md:text-base py-2 px-6 text-sm min-w-fit mr-4">
             Sign In
           </button>
-          <button className="md:px-8 md:py-4 md:text-base py-4 px-6 text-sm min-w-fit bg-brand-orange rounded-lg">
+          <button className="md:px-8 md:py-4 md:text-base py-4 px-6 text-sm min-w-fit bg-brand-darkOrange rounded-lg">
             Sign In
           </button>
         </div>

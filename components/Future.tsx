@@ -18,7 +18,7 @@ const Future = () => {
         <div className="lg:w-1/2 w-full px-2 max-lg:mb-16 max-lg:text-center ">
           <h1
             className="text-gradiant 8xl:text-4xl text-3xl lg:w-2/3  Manropebold"
-            style={{ lineHeight: 1.3 }}
+            style={{ lineHeight: 1.2 }}
           >
             The Future is Now and You Just Need To Realize It. Step into Future
             Today & Make it Happen.
