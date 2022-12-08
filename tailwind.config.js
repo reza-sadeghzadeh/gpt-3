@@ -13,6 +13,8 @@ module.exports = {
           darkBack: "#040C18",
           darkBlue: "#052D56",
           textBlue: "#81AFDD",
+          lightBlue: "#042C54",
+          blueShadow: "#1B78DE",
         },
       },
     },

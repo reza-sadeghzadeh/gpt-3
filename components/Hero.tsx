@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="flex justify-center items-center lg:flex-row flex-col-reverse max-lg:text-center">
           <div className="w-3/4 8xl:py-24 lg:py-16 max-lg:pb-24">
             <h1
-              className="8xl:text-7xl lg:text-4xl text-5xl Manropebold text-gradiant tracking-tighter opacity-90"
+              className="8xl:text-7xl  text-5xl Manropebold text-gradiant tracking-tighter opacity-90"
               style={{ lineHeight: 1.1 }}
             >
               Let’s Build Something amazing with GPT-3 OpenAI
@@ -93,7 +93,7 @@ const Hero = () => {
                   </div>
                 </div>
 
-                <p className="lg:-translate-x-16 md:-translate-x-12 text-sm text-left max-lg:mt-2">
+                <p className="lg:-translate-x-16 md:-translate-x-12 text-sm text-left max-lg:mt-4">
                   1,600 people requested access a visit in last 24 hours
                 </p>
               </div>
