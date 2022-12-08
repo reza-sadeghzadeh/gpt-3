@@ -21,18 +21,18 @@ const Hero = () => {
         <div className="flex justify-center items-center lg:flex-row flex-col-reverse max-lg:text-center">
           <div className="w-3/4 8xl:py-24 lg:py-16 max-lg:pb-24">
             <h1
-              className="8xl:text-7xl  text-5xl Manropebold text-gradiant tracking-tighter"
+              className="8xl:text-6xl 8xl:pr-16 text-5xl Manropebold text-gradiant tracking-tighter"
               style={{ lineHeight: 1.1 }}
             >
               Let’s Build Something amazing with GPT-3 OpenAI
             </h1>
-            <p className="mt-12 8xl:mr-32 8xl:text-lg text-md text-brand-textBlue">
+            <p className="mt-10 8xl:mr-32 8xl:text-lg text-md text-brand-textBlue">
               Yet bed any for travelling assistance indulgence unpleasing. Not
               thoughts all exercise blessing. Indulgence way everything joy
               alteration boisterous the attachment. Party we years to order
               allow asked of.
             </p>
-            <div className="mt-12 w-full">
+            <div className="mt-14 w-full">
               <div className="flex w-full jsutify-start items-center max-md:flex-col">
                 <input
                   className="px-6 8xl:py-4 py-3 max-md:rounded-md md:rounded-l-md bg-brand-darkBlue w-full md:w-2/3 outline-none placeholder:opacity-70"
@@ -99,7 +99,7 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="lg:w-2/3 md:w-1/2 w-full flex justify-cetner items-center">
+          <div className="8xl:w-3/5 lg:w-3/4 md:w-1/2 w-full flex justify-cetner items-center">
             <Image
               className="pointer-events-none"
               alt="hero"
