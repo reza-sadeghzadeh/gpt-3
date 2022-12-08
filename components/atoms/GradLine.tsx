@@ -2,7 +2,10 @@ import React from "react";
 
 const GradLine = () => {
   return (
-    <div className="bg-gradient-to-r mb-3 from-brand-purple to-brand-orange h-1 w-12 rounded-xl opacity-80" />
+    <div
+      className="bg-gradient-to-r opacity-60 mb-2 from-brand-purple to-brand-orange w-12 rounded-xl "
+      style={{ height: 3 }}
+    />
   );
 };
 
