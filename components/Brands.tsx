@@ -8,7 +8,7 @@ import slack from "../public/img/brands/slack.png";
 
 const Brands = () => {
   return (
-    <section className="gp3-container py-12">
+    <section className="gp3-container lg:py-12">
       <div className="flex justify-around mx-auto lg:w-2/3 items-center max-md:flex-col max-md:h-80">
         <Image
           src={google}
@@ -16,14 +16,14 @@ const Brands = () => {
           height={50}
           alt="google"
           className="opacity-75"
-        />{" "}
+        />
         <Image
           src={dropbox}
           width={100}
           height={50}
           alt="dropbox"
           className="opacity-75"
-        />{" "}
+        />
         <Image
           src={atlassian}
           width={100}
