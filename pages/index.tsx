@@ -10,12 +10,12 @@ import Hero from "../components/Hero";
 export default function Home() {
   return (
     <>
-      {/* <Header />
+      <Header />
       <Hero />
       <Brands />
       <About />
       <Future />
-      <Features />*/}
+      <Features />
       <Action />
       <Blog />
     </>
