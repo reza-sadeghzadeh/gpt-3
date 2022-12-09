@@ -1,15 +1,18 @@
-import About from "../components/About";
-import Action from "../components/Action";
-import Blog from "../components/Blog";
-import Brands from "../components/Brands";
-import Features from "../components/Features";
-import Future from "../components/Future";
-import Header from "../components/Header";
-import Hero from "../components/Hero";
+import {
+  About,
+  Action,
+  Blog,
+  Brands,
+  Features,
+  Future,
+  Header,
+  Hero,
+  Footer,
+} from "../components";
 
 export default function Home() {
   return (
-    <>
+    <main>
       <Header />
       <Hero />
       <Brands />
@@ -18,6 +21,7 @@ export default function Home() {
       <Features />
       <Action />
       <Blog />
-    </>
+      <Footer />
+    </main>
   );
 }
