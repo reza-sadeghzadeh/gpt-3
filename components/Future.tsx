@@ -11,7 +11,7 @@ const Future = () => {
             width: 700,
             left: "-40%",
             top: "-15%",
-            backgroundColor: "rgb(255 255 255 / 34%);",
+            backgroundColor: "rgb(255 255 255 / 34%)",
           }}
           className="absolute pointer-events-none rounded-full opacity-5 max-md:hidden  -z-10"
         />
