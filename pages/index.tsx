@@ -1,5 +1,6 @@
 import About from "../components/About";
 import Action from "../components/Action";
+import Blog from "../components/Blog";
 import Brands from "../components/Brands";
 import Features from "../components/Features";
 import Future from "../components/Future";
@@ -9,13 +10,14 @@ import Hero from "../components/Hero";
 export default function Home() {
   return (
     <>
-      <Header />
+      {/* <Header />
       <Hero />
       <Brands />
       <About />
       <Future />
-      <Features />
+      <Features />*/}
       <Action />
+      <Blog />
     </>
   );
 }
