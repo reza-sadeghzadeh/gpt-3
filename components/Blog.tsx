@@ -9,7 +9,7 @@ const Blog = () => {
   return (
     <section className="gp3-container pb-32">
       <h1
-        className="8xl:text-6xl text-5xl Manropebold text-gradiant tracking-tighter 8xl:w-1/2 py-16"
+        className="8xl:text-6xl text-5xl Manropebold text-gradient tracking-tighter 8xl:w-1/2 py-16"
         style={{ lineHeight: 1.1 }}
       >
         A lot is happening, <br /> We are blogging about it.

@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="gp3-container">
         <div className="flex justify-center flex-col items-center py-16">
           <h1
-            className="8xl:text-6xl text-5xl Manropebold text-gradiant tracking-tighter md:w-4/5 lg:px-20  8xl:w-2/3 8xl:px-20 text-center mx-auto py-12"
+            className="8xl:text-6xl text-5xl Manropebold text-gradient tracking-tighter md:w-4/5 lg:px-20  8xl:w-2/3 8xl:px-20 text-center mx-auto py-12"
             style={{ lineHeight: 1.1 }}
           >
             Do you want to step in to the future before others

@@ -31,7 +31,7 @@ const About = () => {
           </p>
         </div>
         <div className="mt-20 flex justify-between items-start max-md:flex-col max-md:text-center max-md:items-center">
-          <h2 className="text-3xl lg:text-4xl w-full max-md:mb-4 md:w-2/3 8xl:w-2/5 text-gradiant Manropebold leading-snug tracking-tight ">
+          <h2 className="text-3xl lg:text-4xl w-full max-md:mb-4 md:w-2/3 8xl:w-2/5 text-gradient Manropebold leading-snug tracking-tight ">
             The possibilities are beyond your imagination
           </h2>
           <Link href={"/"}>

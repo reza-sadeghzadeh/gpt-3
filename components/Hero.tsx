@@ -6,6 +6,7 @@ import people2 from "../public/img/people/Ellipse 32.png";
 import people3 from "../public/img/people/Ellipse 33.png";
 import people4 from "../public/img/people/Ellipse 34.png";
 import people5 from "../public/img/people/Ellipse 35.png";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
@@ -20,12 +21,13 @@ const Hero = () => {
       <section className="gp3-container ">
         <div className="flex justify-center items-center lg:flex-row flex-col-reverse max-lg:text-center">
           <div className="w-3/4 8xl:py-24 lg:py-16 max-lg:pb-24">
-            <h1
-              className="8xl:text-6xl 8xl:pr-16 text-5xl Manropebold text-gradiant tracking-tighter"
+            <motion.h1
+              animate={{}}
+              className="8xl:text-6xl 8xl:pr-16 text-5xl Manropebold text-gradient text-gradient-anim tracking-tighter"
               style={{ lineHeight: 1.1 }}
             >
               Let’s Build Something amazing with GPT-3 OpenAI
-            </h1>
+            </motion.h1>
             <p className="mt-10 8xl:mr-32 8xl:text-lg text-md text-brand-textBlue">
               Yet bed any for travelling assistance indulgence unpleasing. Not
               thoughts all exercise blessing. Indulgence way everything joy

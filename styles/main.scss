@@ -21,7 +21,7 @@ body {
     Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.text-gradiant {
+.text-gradient {
   background-clip: text;
 
   background-image: linear-gradient(
@@ -30,6 +30,22 @@ body {
     theme("colors.brand.orange")
   );
   -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-anim {
+  background-image: linear-gradient(
+    to right,
+    theme("colors.brand.purple"),
+    theme("colors.brand.orange"),
+    theme("colors.brand.purple")
+  );
+  animation: shine 9s linear infinite;
+  background-size: 300% auto;
+  @keyframes shine {
+    to {
+      background-position: 300% center;
+    }
+  }
 }
 
 .humberger {

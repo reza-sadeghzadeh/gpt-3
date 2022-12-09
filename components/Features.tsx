@@ -21,7 +21,7 @@ const Features = () => {
             Request Early Access to Get Started
           </p>
           <h1
-            className="text-gradiant 8xl:text-4xl text-3xl mt-8 Manropebold leading-tight"
+            className="text-gradient 8xl:text-4xl text-3xl mt-8 Manropebold leading-tight"
             style={{ lineHeight: 1.3 }}
           >
             The possibilities are beyond your imagination
